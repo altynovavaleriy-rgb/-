@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="структура данных/структура данных.vcxproj" Id="7a8d7551-9a95-4c6e-a23d-8b372dbdd97c" />
+</Solution>
